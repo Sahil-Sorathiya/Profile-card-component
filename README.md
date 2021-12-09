@@ -14,8 +14,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- [Solution URL](#)
-- [Live Site URL](#)
+- [Solution URL](https://www.frontendmentor.io/solutions/profile-card-component-CuBwojOLa)
+- [Live Site URL](https://youthful-carson-bf93b6.netlify.app/)
 
 ## My process
 
